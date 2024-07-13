@@ -55,4 +55,5 @@ $btnIniciarJuego.addEventListener("click", () => {
 Hacer que el juego tenga dos columnas 
 hacer que que cuando dos cartas sean iguales se quede la imagen de la fruta fija 
 hacer que si las imagenes no considen la imagen se devuelva al cover
+crear una seleccion de dificultad, y que el jugador juege deacuerdo a eso 
 */
